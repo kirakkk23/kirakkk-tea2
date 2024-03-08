@@ -1,0 +1,23 @@
+{
+  "name": "kirakkk-tea2",
+  "version": "1.0.0",
+  "description": "kirakkk-tea2-tesnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kirakkk23/kirakkk-tea2.git"
+  },
+  "dependencies": {
+    "kirakkk23": "1.0.0",
+  "my-hot-tea": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirakkk23/kirakkk-tea2/issues"
+  },
+  "homepage": "https://github.com/kirakkk23/kirakkk-tea2#readme"
+}
